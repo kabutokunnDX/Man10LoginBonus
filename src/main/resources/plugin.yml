@@ -1,0 +1,13 @@
+name: Man10LoginBonus
+version: '${project.version}'
+main: kbtdx.man10loginbonus.Man10LoginBonus
+api-version: 1.17
+authors: [kabutokunnDX]
+commands:
+  mlb:
+
+permissions:
+  mlb.op:
+    default: op
+  mlb.user:
+    default: true
